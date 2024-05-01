@@ -1,8 +1,8 @@
 # 工具与环境
 
 - **计算机**
-    - [常用批处理](/Blogs/工具与环境/计算机篇/常用批处理.md)
-    - [GitHub访问问题](/Blogs/工具与环境/计算机篇/GitHub访问问题.md)
+    - [常用批处理](./Blogs/工具与环境/计算机篇/常用批处理.md)
+    - [GitHub访问问题](./Blogs/工具与环境/计算机篇/GitHub访问问题.md)
     
 
 
@@ -12,8 +12,8 @@
 - **Git篇**
     - 暂无
 - **SVN篇**
-    - [SVN服务过期处理](/Blogs/工具与环境/SVN篇/SVN服务过期处理/SVN服务过期处理.md)
-    - [Ubuntu2204安装SVN服务](/Blogs/工具与环境/SVN篇/Ubuntu2204安装SVN服务.md)
+    - [SVN服务过期处理](./Blogs/工具与环境/SVN篇/Windows SVN服务过期处理/Windows SVN服务过期处理.md)
+    - [Ubuntu2204安装SVN服务](./Blogs/工具与环境/SVN篇/Ubuntu2204安装SVN服务.md)
 
 ---
 
@@ -97,7 +97,7 @@
 # 外观设计
 
 - **FreeCAD**
-    - [FreeCAD学习](/Blogs/外观设计/FreeCAD学习/Study.md)
+    - [FreeCAD学习](./Blogs/外观设计/FreeCAD篇/练习/Study.md)
 
 # 理论与其他
 
