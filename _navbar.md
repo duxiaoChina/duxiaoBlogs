@@ -46,7 +46,7 @@
   * [文字转语音- TTSMaker](https://ttsmaker.com/zh-cn)
   
 * 电子开发
-  * [立创EDA]()
+  * [立创EDA](https://lceda.cn/)
   * [wokwi|电路仿真](https://wokwi.com/)
   * [Tinkercad|电路仿真](https://www.tinkercad.com/circuits)
   
