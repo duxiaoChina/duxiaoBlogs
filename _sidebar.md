@@ -12,7 +12,7 @@
 - **Git篇**
     - 暂无
 - **SVN篇**
-    - [SVN服务过期处理](./Blogs/工具与环境/SVN篇/Windows SVN服务过期处理/Windows SVN服务过期处理.md)
+    - [SVN服务过期处理](./Blogs/工具与环境/SVN篇/WindowsSVN服务过期处理/Windows SVN服务过期处理.md)
     - [Ubuntu2204安装SVN服务](./Blogs/工具与环境/SVN篇/Ubuntu2204安装SVN服务.md)
 
 ---
@@ -85,11 +85,11 @@
 
 ---
 
-# 无人驾驶
+# 自动驾驶
 
 - **环境搭建篇**
-   - [Ros1环境搭建](/Blogs/无人驾驶/环境搭建篇/Ros1/Ros1环境搭建.md)
-   - [Ros2环境搭建](/Blogs/无人驾驶/环境搭建篇/Ros2/Ros2环境搭建.md)
+   - [Ros1环境搭建](./Blogs/自动驾驶/环境搭建篇/Ros1/Ros1环境搭建.md)
+   - [Ros2环境搭建](./Blogs/自动驾驶/环境搭建篇/Ros2/Ros2环境搭建.md)
    
 - **传感器篇**
    - 暂无
